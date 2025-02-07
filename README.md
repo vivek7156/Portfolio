@@ -4,7 +4,7 @@ This is a personal portfolio website for Vivek Singh, a Full-stack developer. Th
 
 ## Demo
 
-You can view the live demo of the portfolio website [here]([https://your-portfolio-website-link.com](https://viveksingh-portfolio.vercel.app/)).
+You can view the live demo of the portfolio website https://your-portfolio-website-link.com](https://viveksingh-portfolio.vercel.app.
 
 ## Features
 
