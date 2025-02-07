@@ -27,7 +27,7 @@ const socials = [
   },
   {
     label: "LinkedIn",
-    href: "www.linkedin.com/in/vivek-singh7156",
+    href: "https://www.linkedin.com/in/vivek-singh7156",
   },
   {
     label: "Instagram",
